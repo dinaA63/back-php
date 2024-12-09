@@ -1,1 +1,2 @@
-# back-php
+# back-php\
+папка vendor удалена
