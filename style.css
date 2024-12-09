@@ -1,0 +1,56 @@
+/* body {
+    background-image:url(/img/back.jpg);
+} */
+.but {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+}
+#button {
+    font-size: 22px;
+    border: none;
+    border-radius: 5px;
+    background-color: darkgray;
+    margin-right: 12%;
+}
+
+#inpt {
+    background-color: black;
+}
+.container {
+    border-radius: 7px;
+    margin-left: 20%;
+}
+.inpt {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 36%;
+}
+img {
+    border-radius: 5%;
+}
+
+table {
+    width: 100%;
+    border-radius: 5%;
+    margin: 20px 0;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: darkgray;
+}
+
+.admin {
+text-align: right;
+}
+
+#adminimg {
+    margin-left: 70%;
+}
